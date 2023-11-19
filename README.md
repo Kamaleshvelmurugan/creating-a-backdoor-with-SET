@@ -55,8 +55,7 @@ SET starts my Kali Linux Webserver on port 80, with the fake Google account logi
 
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
 
-![WhatsApp Image 2023-11-09 at 12 06 38_77a224ea](https://github.com/ShanmathiShanmugam/creating-a-backdoor-with-SET/assets/121243595/e964b54e-cc7c-4975-99fc-ba92ec68576d)
-
+![WhatsApp Image 2023-11-19 at 09 08 21_f7adc000](https://github.com/Kamaleshvelmurugan/creating-a-backdoor-with-SET/assets/119477328/7a032acd-ff13-4a4e-bf4c-046e5d13fdfd)
 
 
 SET logs the information regarding the Google credentials:
